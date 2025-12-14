@@ -92,16 +92,3 @@ Add sound or voice support
 
 Connect to real AI in future
 
-⭐ Why This Project Is Good for Beginners
-
-Very easy to understand
-
-No complex setup
-
-Perfect first GitHub project
-
-Good for learning and practice
-
-📜 License
-
-This project is open source and free to use.
